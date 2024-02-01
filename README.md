@@ -1,4 +1,5 @@
 # TrashSure ML Detection Model
+<img src="detect.png"/>
 
 ## Description
 Welcome to the TrashSure ML Detection Model repository! This repository contains a deep learning model that has been trained to perform the task of detecting various waste types.
