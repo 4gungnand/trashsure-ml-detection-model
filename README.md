@@ -1,6 +1,10 @@
 # TrashSure ML Detection Model
 <img src="detection.png"/>
 
+## Honorable Mention
+This is not possible without the work of the owner of the Dataset and the original code.
+https://github.com/pedropro/TACO
+
 ## Description
 Welcome to the TrashSure ML Detection Model repository! This repository contains a deep learning model that has been trained to perform the task of detecting various waste types.
 
